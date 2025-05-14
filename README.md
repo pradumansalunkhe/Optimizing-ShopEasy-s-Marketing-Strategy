@@ -10,7 +10,7 @@ ShopEasy has observed:
 - Rising marketing expenses with low ROI.
 - A need to understand customer feedback better.
 
-## 🎯 Project Goals
+## Project Goals
 
 1. **Increase Conversion Rates**
    - Identify drop-off points in the user journey.
