@@ -1,14 +1,14 @@
-# 📊 ShopEasy Marketing Strategy Optimization
+# ShopEasy Marketing Strategy Optimization
 
 This project focuses on analyzing customer engagement, conversion rates, and feedback to help **ShopEasy**, an online retail business, improve its marketing strategies and return on investment (ROI).
 
-## 🧩 Business Problem
+## Business Problem
 
 ShopEasy has observed:
-- 📉 Declining customer engagement with marketing content.
-- ❌ Decreased conversion rates despite increased marketing efforts.
-- 💸 Rising marketing expenses with low ROI.
-- 🗣️ A need to understand customer feedback better.
+- Declining customer engagement with marketing content.
+- Decreased conversion rates despite increased marketing efforts.
+- Rising marketing expenses with low ROI.
+- A need to understand customer feedback better.
 
 ## 🎯 Project Goals
 
