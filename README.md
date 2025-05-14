@@ -34,11 +34,9 @@ ShopEasy has observed:
 ## Tools & Technologies
 
 - **Python** (Pandas, NumPy, Seaborn, Matplotlib)
-- **Natural Language Processing** (TextBlob, NLTK)
 - **Power BI / Tableau** for data visualization
 - **Jupyter Notebooks**
 - **Excel** for exploratory work
-- **Git** for version control
 
 # Screenshot 
 ![Image](https://github.com/user-attachments/assets/845e3d1e-f15a-4826-a0b5-ab6975af63c7)
